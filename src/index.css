@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 2em;
+  font-family: sans-serif;
+}
+.container_counter {
+  border: 1px black solid;
+  border-radius: 4px;
+  text-align: center;
+  width: 150px;
+  height: 150px;
+}
